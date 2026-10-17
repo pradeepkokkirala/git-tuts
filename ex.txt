@@ -1,1 +1,1 @@
-this is ex file
+text file change after commit 1
