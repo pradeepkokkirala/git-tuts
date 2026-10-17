@@ -1,2 +1,1 @@
-# hello python
-print("python is a programming language")
+#python is a language which is used in ml,ai,data science...
