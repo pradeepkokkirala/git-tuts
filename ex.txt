@@ -1,1 +1,3 @@
 git new branch master demo
+git new branch conflict-demo
+welcome to git
